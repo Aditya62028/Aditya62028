@@ -136,7 +136,7 @@ Passionate about crafting dynamic web applications, collaborating with designers
 ## 🔗 Let's Connect!
 
 - LinkedIn: [Aditya Kant Verma](https://www.linkedin.com/in/aditya-kant-verma/)
-- Portfolio: [My Website](https://abhishek-singh8.netlify.app/)
+- Portfolio: [My Website](https://sweet-hotteok-07dd32.netlify.app/)
 - Email: vermaaditya8271@gmail.com
 
 ---
